@@ -8,12 +8,15 @@ LEDs D2-D7, 220ohm registors to - to GND \
 **Finished project Video:**
 https://www.instagram.com/reel/DBlvbXcuKN-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
-## Wk3 Smart Chair
+## Wk3 Smart Chair Part1
+Utillizing Touch Sensor for checking if the chair is occupied. Photoresistor is used to measure the lighting to see if it is Day or Night.
+RGB LED module is used to tell you a status of the chair / Day or Night. 
 
+Photoregistor gives analog input whereas Touch sensor signal 
 ### ESP8266, RGB LED Module, Touch sensor, Photoregistor sensor 
 **RGB LED Module** connects to: R -> D2, G -> D3, B -> D4 , GND -> - rail \
-**Touch sensor** SIG -> D5 \
-**Photoregistor** SIG -> A0 
+**Touch sensor** SIG -> D5 (General Input Output pin) \
+**Photoregistor** SIG -> A0 (Analog to Digital Converter pin)
 
 
 
