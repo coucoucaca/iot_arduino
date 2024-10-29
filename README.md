@@ -5,8 +5,7 @@
 - ESP8266 3V3 , GND for D3-5 LED,  GND for D5-7 LED via Registors 220ohm
 - **Switch** connected to 3V3 pin and D1 pin,  10k ohm to  - rail 
 - **LEDs** conneted to D2-D7, 220ohm registors to - to GND 
-- **Finished project Video:**
-https://www.instagram.com/reel/DBlvbXcuKN-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+- **[ Watch how it works](https://www.instagram.com/reel/DBlvbXcuKN-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** 
 
 
 <br>
