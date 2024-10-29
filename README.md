@@ -11,7 +11,7 @@ LEDs D2-D7, 220ohm registors to - to GND
 ESP8266, RGB LED Module, Touch sensor, Photoregistor sensor \
 RGB LED Module connectes to: Red -> D2, Green -> D3, Blue -> D4 , GND -> - \
 Touch sensor's SIG -> D5 \
-Photoregistor's SIG -> A0 \
+Photoregistor's SIG -> A0 
 
 
 
