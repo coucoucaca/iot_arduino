@@ -7,6 +7,8 @@
 - **Finished project Video:**
 https://www.instagram.com/reel/DBlvbXcuKN-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
+
+![SmartChair1](/assets/images/smart-chair-p1.jpg)
 ## Wk3 Smart Chair Part1
 Utillizing Capacitive Touch Sensor for checking if the chair is occupied. Photoresistor is used to measure the lighting to see if it is Day or Night.
 RGB LED module is used to tell you a status of the chair / Day or Night. 
