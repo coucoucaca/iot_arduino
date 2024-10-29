@@ -77,9 +77,10 @@ bool isNight() {
   Serial.println(photoValue);
 
   if(photoValue > photoThreshold) {
+    Serial.println("Day");
     return false;
   } 
-  
+  Serial.println("Night");
   return true;
 
 }
