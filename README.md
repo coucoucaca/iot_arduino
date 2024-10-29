@@ -1,10 +1,12 @@
 # IoT Practice using Arduino & ESP8266
 
 ![Phi](/assets/images/phi-project.jpg)
-### Wk2 [Phi Effects](phi.ino)
-- ESP8266 3V3 , GND for D3-5 LED,  GND for D5-7 LED via Registors 220ohm
-- **Switch** connected to 3V3 pin and D1 pin,  10k ohm to  - rail 
-- **LEDs** conneted to D2-D7, 220ohm registors to - to GND 
+### Wk2 [Phi Phenomenon](phi.ino)
+
+When the switch is pressed, a current flows to digital pin D1. This triggers a sequence of events controlled by a C++ program. The program iterates through pins D2 to D7, setting each pin to HIGH, then LOW, with a brief delay between each state change. This creates a sequential lighting effect, known as the phi phenomenon, where the bulbs appear to light up one after another.
+
+- **Switch** connected to 3V3 pin and D1 pin,  10k ohm to  - rail/GND
+- **LEDs** conneted to D2-D7 with 220 Ω registors to - to GND 
 - **[ Watch how it works](https://www.instagram.com/reel/DBlvbXcuKN-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** 
 
 
