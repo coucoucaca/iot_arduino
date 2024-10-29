@@ -1,6 +1,6 @@
 # IoT Practice using Arduino & ESP8266
 
-![Phi](/assets/images/phi_project.jpg)
+![Phi](/assets/images/phi-project.jpg)
 ### Wk2 Phi Effects
 - ESP8266 3V3 , GND for D3-5 LED,  GND for D5-7 LED via Registors 220ohm
 - **Switch** connected to 3V3 pin and D1 pin,  10k ohm to  - rail 
