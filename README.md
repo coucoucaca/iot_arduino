@@ -22,7 +22,7 @@ RGB LED module is used to tell you a status of the chair / Day or Night.
 - **Photoregistor** SIG -> A0 (Analog to Digital Converter pin)
 
 
-
+![SmartChair1Parts](/assets/images/smart-chair-p1-parts.jpg)
 
 
 
