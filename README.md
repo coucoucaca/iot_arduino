@@ -10,7 +10,7 @@ When the switch is pressed, a current flows to digital pin D1. This triggers a s
 - **[ Watch how it works](https://www.instagram.com/reel/DB6qUEzRgbV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** 
 
 
-<br>
+<br><br>
 
 ![SmartChair1](/assets/images/smart-chair-p1-2.jpg)
 ### Wk3 [Smart Chair Part1](smart_chair_part1.ino)
@@ -26,7 +26,7 @@ When a capacitive touch sensor is touched,  the voltage lowers and signal 1 is s
 
 ![SmartChair1Parts](/assets/images/smart-chair-p1-parts.jpg)
 
-<br>
+<br><br>
 
 ![SmartFridge](/assets/images/fridge-p1.jpg)
 ### Wk4 [Smart Fridge](smart_fridge_part1.ino)
