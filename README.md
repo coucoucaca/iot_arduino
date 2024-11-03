@@ -17,11 +17,11 @@ When the switch is pressed, a current flows to digital pin D1. This triggers a s
 When a capacitive touch sensor is touched,  the voltage lowers and signal 1 is sent to the microcontroller. A photoresistor measures ambient light levels to determine day or night. The system utilizes an RGB LED module to visually indicate the status of the sensor and the time of day. Photoregistor gives analog input whereas Touch sensor signal has a built in ADC so it sends binary of HIGH 1 or LOW 0.
 
 - **[ Watch how it works](https://www.instagram.com/reel/DBuHycwy5vY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** 
-- **Photoregistor** gives **analog** input whereas **Touch sensor** signal has a built in ADC so it sends binary of HIGH 1 or LOW 0
+- **[Photoregistor](https://www.instagram.com/p/DB4CULLuDXL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** gives **analog** input whereas **Touch sensor** signal has a built in ADC so it sends binary of HIGH 1 or LOW 0
 
 - **RGB LED Module** connects to: R -> D2, G -> D3, B -> D4 , GND -> - rail 
 - **Capacitive Touch sensor** SIG -> D5 (General Input Output pin) 
-- **Photoregistor** SIG -> A0 (Analog to Digital Converter pin)
+- **[Photoregistor](https://www.instagram.com/p/DB4CULLuDXL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)**  SIG -> A0 (Analog to Digital Converter pin)
 
 
 ![SmartChair1Parts](/assets/images/smart-chair-p1-parts.jpg)
