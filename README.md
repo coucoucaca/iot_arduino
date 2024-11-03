@@ -39,4 +39,7 @@ When a capacitive touch sensor is touched,  the voltage lowers and signal 1 is s
 * The switch sends a high signal to digital pin D1 of the microcontroller.
 * The microcontroller directly controls the LED's brightness, bypassing the potentiometer's influence.
 
+- **[ Watch how it works](https://www.instagram.com/reel/DB66M0_SfXy/?utm_source=ig_web_copy_link)** 
+
+
 ![SmartFridge1Parts](/assets/images/fridge-p1-parts.jpg)
