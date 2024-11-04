@@ -54,5 +54,7 @@ When a capacitive touch sensor is touched,  the voltage lowers and signal 1 is s
 **Switch On:** * The switch triggers a signal to the microcontroller. 
 * The potentiometer controls the voltage sent to the microcontroller's analog input pin (A0). 
 * The microcontroller processes this analog input to adjust the RGB LED's color, transitioning between pink and blue hues. The buzzer's sound is also be influenced by the potentiometer's value.
+- **[Watch how it works](https://www.instagram.com/reel/DB89HG0Oaq3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** 
+
 
 
