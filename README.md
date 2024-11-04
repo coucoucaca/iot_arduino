@@ -29,10 +29,10 @@ When a capacitive touch sensor is touched,  the voltage lowers and signal 1 is s
 <br><br>
 
 ![SmartFridge](/assets/images/fridge-p1.jpg)
-### Wk4 [Smart Fridge](smart_fridge_part1.ino)
+### Wk3 [Smart Fridge](smart_fridge_part1.ino)
 
 **Switch Off:**
-* The potentiometer controls the voltage sent to the microcontroller's analog input pin (A0).
+* The [potentiometer](https://www.instagram.com/p/DB9HL3oOFfs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) controls the voltage sent to the microcontroller's analog input pin (A0).
 * The microcontroller reads this analog value and uses it to control the LED's brightness through Pulse-Width Modulation (PWM).
 
 **Switch On:**
@@ -43,3 +43,16 @@ When a capacitive touch sensor is touched,  the voltage lowers and signal 1 is s
 
 
 ![SmartFridge1Parts](/assets/images/fridge-p1-parts.jpg)
+
+<br><br>
+
+![SmartFridge](/assets/images/fridge-p2.jpg)
+### Wk4 [Smart Fridge](smart_fridge_part2.ino)
+
+**Switch Off:** 
+* The RGB LED cycles through red, blue, and green colors. 
+**Switch On:** * The switch triggers a signal to the microcontroller. 
+* The potentiometer controls the voltage sent to the microcontroller's analog input pin (A0). 
+* The microcontroller processes this analog input to adjust the RGB LED's color, transitioning between pink and blue hues. The buzzer's sound is also be influenced by the potentiometer's value.
+
+
