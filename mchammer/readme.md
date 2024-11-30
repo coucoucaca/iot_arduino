@@ -1,6 +1,7 @@
 # Can't touch this 
 
-![Can't Touch This](mchammer/images/hammertime.png)
+![Can't Touch This](images/hammertime.png)
+
 
 
 
