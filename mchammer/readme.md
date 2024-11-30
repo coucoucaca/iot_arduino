@@ -1,6 +1,6 @@
 # Can't touch this 
 
-![Can't Touch This](/assets/images/hammertime.png)
+![Can't Touch This](/images/hammertime.png)
 
 
 
